@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sandabu.com/blog/</loc>
+    <loc>https://sandabu.com/</loc>
     <lastmod>2019-08-04T01:36:53+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sandabu.com/blog/post/</loc>
+    <loc>https://sandabu.com/post/</loc>
     <lastmod>2019-08-04T01:36:53+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sandabu.com/blog/post/blog-init/</loc>
+    <loc>https://sandabu.com/post/blog-init/</loc>
     <lastmod>2019-08-04T01:36:53+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sandabu.com/blog/categories/</loc>
+    <loc>https://sandabu.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sandabu.com/blog/tags/</loc>
+    <loc>https://sandabu.com/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,7 +1,7 @@
 languageCode = "ja-JP"
 hasCJKLanguage = true
 theme = "casper-two"
-baseURL = "https://sandabu.com/blog"
+baseURL = "https://sandabu.com"
 paginate = 6
 canonifyurls = true
 
