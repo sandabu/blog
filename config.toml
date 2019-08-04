@@ -1,8 +1,9 @@
 languageCode = "ja-JP"
 hasCJKLanguage = true
 theme = "casper-two"
-baseURL = "/"
+baseURL = "https://sandabu.com/blog"
 paginate = 6
+canonifyurls = true
 
 [params]
   title = "sandablog"
