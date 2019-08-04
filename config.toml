@@ -1,0 +1,39 @@
+languageCode = "ja-JP"
+hasCJKLanguage = true
+theme = "casper-two"
+baseURL = "/"
+paginate = 6
+
+[params]
+  title = "sandablog"
+  subtitle = "Web, Tech beatmaniaIIDX ⬤▗▚▚▚"
+  
+  cover = "img/cover/201907.jpg"
+  description = "sandabuによるblog"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = ["css/main.css"]
+  RSSLink = ""
+  
+  twitterName ="_sandabu"
+
+  author = "sandabu"
+  authorAvatar = "img/author-avator.jpeg"
+  authorLocation = "Asakusa, Japan"
+  authorDescription = "通信会社でWebやってます 学生の頃はVRを研究していました beatmaniaIIDX SP皆伝/DP八段"
+  singleViewStyle = "casper-two"
+[permalinks]
+  post= "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = "200"
+[[menu.main]]
+  name = "Blog"
+  url = "/post"
+  weight = "150"
+
+
+
+
