@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>sandablog</title>
     <link>https://sandabu.com/</link>
-    <description>Recent content on </description>
+    <description>Recent content on sandablog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 04 Aug 2019 01:36:53 +0900</lastBuildDate>

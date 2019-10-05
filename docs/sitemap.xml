@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sandabu.com/</loc>
+    <loc>https://sandabu.com/post/</loc>
     <lastmod>2019-08-04T01:36:53+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sandabu.com/post/</loc>
+    <loc>https://sandabu.com/</loc>
     <lastmod>2019-08-04T01:36:53+09:00</lastmod>
     <priority>0</priority>
   </url>

@@ -5,6 +5,7 @@ title = "sandablog"
 baseURL = "https://sandabu.com"
 paginate = 6
 canonifyurls = true
+publishDir = "docs"
 
 [params]
   title = "sandablog"
